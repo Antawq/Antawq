@@ -4,7 +4,7 @@
 <tr>
   
   <td width="50%" align="center" valign="middle">
-    <img src="https://media1.tenor.com/m/PyRd_9AofrcAAAAC/tomioka-tomioka-giyu.gif" width="400" style="border-radius:0;"/>
+    <img src="https://tenor.com/view/itadori-yuji-yuji-itadori-pet-pet-itadori-pet-pet-yuji-pet-pet-gif-12994691991746137997" width="400" style="border-radius:0;"/>
   </td>
 
   <td width="50%" align="center" valign="top">
