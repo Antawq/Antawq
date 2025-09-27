@@ -3,7 +3,7 @@
 <table>
 <tr>
   <td width="50%" align="center" valign="middle">
-    <img src="https://media.tenor.com/REPLACE_WITH_DIRECT_GIF.gif" width="400"/>
+    <img src="https://media.tenor.com/tFZrhIWkT40AAAAi/itadori-yuji-yuji-itadori.gif" width="400"/>
   </td>
 
   <td width="50%" align="center" valign="top">
